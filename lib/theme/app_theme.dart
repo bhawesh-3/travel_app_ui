@@ -1,7 +1,7 @@
 import 'package:flutter/material.dart';
 
 class AppTheme {
-  // 🌞 Light Theme
+  // Light Theme
   static ThemeData lightTheme = ThemeData(
     useMaterial3: true,
 
@@ -51,7 +51,7 @@ class AppTheme {
     ),
   );
 
-  // 🌙 Dark Theme
+  // Dark Theme
   static ThemeData darkTheme = ThemeData(
     useMaterial3: true,
 

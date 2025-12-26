@@ -24,14 +24,14 @@ final List<Map<String, String>> destinations = [
     "location": "Nepal",
     "image": "assets/rara.jpg",
     "description":
-        "Rara Lake is Nepal’s largest and one of its most pristine lakes, located inside Rara National Park in the remote northwest. Surrounded by forests and alpine hills, the lake is known for its deep blue color and quiet atmosphere, making it ideal for travelers seeking untouched natural beauty and solitude.",
+        "Rara Lake is Nepal's largest and one of its most pristine lakes, located inside Rara National Park in the remote northwest. Surrounded by forests and alpine hills, the lake is known for its deep blue color and quiet atmosphere, making it ideal for travelers seeking untouched natural beauty and solitude.",
   },
   {
     "title": "Lumbini",
     "location": "Nepal",
     "image": "assets/lumbini.jpg",
     "description":
-        "Lumbini is one of the world’s most important spiritual destinations as the birthplace of Lord Buddha. The sacred area centers around the Maya Devi Temple and is surrounded by peaceful gardens and international monasteries. It is a place for reflection, history, and cultural exploration.",
+        "Lumbini is one of the world's most important spiritual destinations as the birthplace of Lord Buddha. The sacred area centers around the Maya Devi Temple and is urrounded by peaceful gardens and international monasteries. It is a place for reflection, history, and cultural exploration.",
   },
   {
     "title": "Bhaktapur",
@@ -44,7 +44,7 @@ final List<Map<String, String>> destinations = [
     "title": "Pashupatinath",
     "location": "Nepal",
     "image": "assets/pashupati.jpg",
-    "description": "Pashupatinath is Nepal’s most sacred Hindu temple complex, situated along the Bagmati River in Kathmandu. Dedicated to Lord Shiva, Pashupatinath Temple is a major pilgrimage site where visitors can observe religious rituals, ceremonies, and festivals that have been practiced for centuries.",
+    "description": "Pashupatinath is Nepal's most sacred Hindu temple complex, situated along the Bagmati River in Kathmandu. Dedicated to Lord Shiva, Pashupatinath Temple is a major pilgrimage site where visitors can observe religious rituals, ceremonies, and festivals that have been practiced for centuries.",
   },
 ];
 
